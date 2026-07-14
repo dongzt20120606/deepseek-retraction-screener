@@ -1,0 +1,32 @@
+Section/Topic,#,Item,Location in manuscript
+TITLE OR ABSTRACT,1,Identification as a study of diagnostic accuracy,Title and Abstract: 'diagnostic validation'
+INTRODUCTION,2,"Structured summary of study design, methods, results, conclusions","Structured Abstract (Background, Objective, Methods, Results, Discussion)"
+INTRODUCTION,3,"Scientific and clinical background, including intended use and clinical role","Introduction, paragraphs 1-4"
+INTRODUCTION,4,Study objectives and hypotheses,"Introduction, final paragraph"
+METHODS,5,Whether data collection was planned before the index test and reference standard were performed (prospective vs retrospective),"Retrospective diagnostic validation study (stated in Methods, Study Design)"
+METHODS,6,Eligibility criteria,"44 SR/MA from 9,999 PMID sample with accessible ReferenceList in PubMed XML; 21 journals; oncology/surgery domains (stated in Gold Standard Annotation)"
+METHODS,7,On what basis potentially eligible participants were identified,"PubMed search: 55,361 SR/MA → 9,999 downloaded → 44 with reference lists → 2,308 refs (STARD flow diagram, Figure 5)"
+METHODS,8,"Where and when participants were identified (setting, location, dates)","PubMed, 10 July 2026; 2020-2025 publication window (stated in Data Sources)"
+METHODS,9,"Whether participants formed a consecutive, random, or convenience series",Convenience sample of reviews with accessible PubMed XML ReferenceList (stated in Gold Standard Annotation)
+METHODS,10,"Index test, in sufficient detail to allow replication","DeepSeek API (deepseek-chat, temp=0.3), 4 prompt variants, 6-step pipeline (stated in Pipeline Architecture, Figures 1-2)"
+METHODS,11,Rationale for index test components,"Two-stage design: RW DB for high-specificity pre-filter, LLM for semantic classification of unmatched refs (stated in Pipeline Architecture)"
+METHODS,12,Reference standard and its rationale,Multi-layer: RW DB + journal risk + DeepSeek API + manual PubMed verification by domain expert (stated in Gold Standard Annotation)
+METHODS,13,Rationale for choosing the reference standard,No single authoritative retraction database; combined approach maximises coverage (stated in Gold Standard Annotation)
+METHODS,14,Definition of and rationale for test positivity cut-offs or result categories,RETRACTED / CLEAN / UNCERTAIN; confidence <0.50 → UNCERTAIN (stated in Steps 4-5)
+METHODS,15,Whether clinical information and reference standard results were available to the index test operators,"DeepSeek API received only citation text, blind to gold standard labels (stated in Blinding and Reproducibility)"
+METHODS,16,Methods for estimating or comparing measures of diagnostic accuracy,"Sensitivity, Specificity, PPV, NPV, F1-score, 95% Wilson CI (stated in Statistical Analysis)"
+METHODS,17,How indeterminate index test results were handled,Uncertain results (confidence <0.50) excluded from diagnostic metric calculation (stated in Step 5)
+METHODS,18,How missing data on the index test or reference standard were handled,N/A — complete data on all 500 samples
+METHODS,19,Any analyses of variability in diagnostic accuracy (subgroup analyses),Comparison across 4 prompt versions and 3 pipeline variants (stated in Results)
+METHODS,20,Intended sample size and how it was determined,n=500; 100+ positive cases needed for ±10% CI precision at 85% sensitivity (stated in Sample Size)
+RESULTS,21,"Flow of participants, using a diagram",STARD flow diagram (Figure 5)
+RESULTS,22,Baseline demographic and clinical characteristics of participants,"44 SR/MA: 26 oncology, 12 surgery, 6 combined; 21 journals (stated in Gold Standard Annotation)"
+RESULTS,23,Distribution of severity of disease or alternative diagnoses,"388/500 (77.6%) retracted, 112/500 (22.4%) clean in gold standard"
+RESULTS,24,Cross-tabulation of index test results by reference standard,Table 3: confusion matrix; Figure 4: heatmap
+RESULTS,25,Estimates of diagnostic accuracy and their precision,"Table 3: Sens 89.4% (86.0-92.2), Spec 100% (96.8-100), PPV 100%, NPV 73.2%, F1 94.4%"
+RESULTS,26,Any adverse events from performing the index test,N/A — no human participants
+DISCUSSION,27,"Study limitations, including sources of potential bias and statistical uncertainty","Limitations section (single annotator, CrossRef lower bound, pdfplumber limits, English-only)"
+DISCUSSION,28,"Implications for practice, including intended use and clinical role",Implications for Practice section
+OTHER INFORMATION,29,Registration number and name of registry,"OSF retrospective registration: https://doi.org/10.17605/OSF.IO/UYKVE (stated in Registration and Protocol)"
+OTHER INFORMATION,30,Where the full study protocol can be accessed,GitHub repository (stated in Data Availability)
+OTHER INFORMATION,31,Sources of funding and other support; role of funders,No specific funding was received for this study (stated in Competing Interests)

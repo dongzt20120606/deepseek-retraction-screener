@@ -1,0 +1,502 @@
+Parent_PMID,Cited_PMID,Citation_preview,Gold_Standard_Label,Confidence,Annotation_Source
+40892447,27402624,"Goette  A, Kalman  JM, Aguinaga  L, Akar  J, Cabrera  JA, Chen  SA  et al.  EHRA",RETRACTED,0.88,deepseek
+40923939,,"Imoto AM, Peccin MS, Trevisani VFM. Quadriceps strengthening exercises are effec",CLEAN,1.00,user_manual
+41286158,35122060,"Parikh AR, et al. Radiation therapy enhances immunotherapy response in microsate",RETRACTED,0.88,deepseek
+40960690,31982990,"Li P, Wang X, Xu C, Liu C, Zheng C, Fulham MJ, et al. 18F-FDG PET/CT radiomic pr",CLEAN,0.85,deepseek
+POSITIVE_CONTROL,38477639,Effects of high tibial osteotomy compared with unicondylar knee arthroplasty on ,RETRACTED,0.99,rw_db
+40932611,28271869,"Seymour L, Bogaerts J, Perrone A, Ford R, Schwartz LH, Mandrekar S, et al. iRECI",CLEAN,0.85,deepseek
+40033805,22783403,"Wu H, Li P, Shao N, Ma J, Ji M, Sun X, et al. (2012). Aberrant expression of Tre",RETRACTED,0.88,deepseek
+40356837,32458316,"Ueyama H, Miyashita H, Takagi H, Cruz C, Burger A, Briasoulis A, et al. Network ",RETRACTED,0.88,deepseek
+40960690,,"Hachache R, Yahyaouy A, Riffi J, Tairi H, Abibou S, Adoui ME, et al. Advancing p",CLEAN,1.00,user_manual
+41085225,,"Gnaneswaran S, Deans R, Cohn RJ. Reproductive late effects in female survivors o",CLEAN,1.00,user_manual
+41146130,32245577,"Alyahya A, Bin Ahmed A, Nusair Y, Ababtain R, Alhussain A, Alshafei A. Mandibula",RETRACTED,0.88,deepseek
+40033805,26431888,"Wang J, Tao Q, Wang H, Wang Z, Wu F, Pan Y, et al. (2015b). Elevated IL-35 in bo",RETRACTED,0.88,deepseek
+40892447,31954955,"Nakatani  Y, Sakamoto  T, Yamaguchi  Y, Tsujino  Y, Kataoka  N, Kinugawa  K. P-w",RETRACTED,0.88,deepseek
+40038641,29358871,"Hussan H, Clinton SK, Roberts K, Bailey MT. Fusobacterium’s link to colorectal n",RETRACTED,0.88,deepseek
+40033805,25572297,"de Lourdes Perim A, Amarante MK, Guembarovski RL, de Oliveira CEC, Watanabe MAE ",RETRACTED,0.88,deepseek
+41174505,29853864,"Li X, Liu S, Yan J, et al. The characteristics, prognosis, and risk factors of l",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,23463325,MTHFR C677T polymorphism was an ethnicity-dependent risk factor for cervical can,RETRACTED,0.99,rw_db
+40035891,27412257,Cohen SR et al (2017) Measuring the quality of life of people at the end of life,RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,30732146,Comparison of clinical outcomes between intravascular optical coherence tomograp,RETRACTED,0.99,rw_db
+POSITIVE_CONTROL,36033563,Clinical Efficacy and Safety Analysis of PD-1/PD-L1 Inhibitor vs. Chemotherapy i,RETRACTED,0.99,rw_db
+40033805,35115489,"Geron I, Savino AM, Fishman H, Tal N, Brown J, Turati VA, et al. (2022). An inst",RETRACTED,0.88,deepseek
+40290044,35005781,"Roberts K.E., Adsett I.T., Rickett K., Conroy S.M., Chatfield M.D., Woodward N.E",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,30682070,Prognostic significance of DAPK promoter methylation in lymphoma: A meta-analysi,RETRACTED,0.99,rw_db
+POSITIVE_CONTROL,34337015,A Systematic Review and Meta-Analysis of the SuperPATH Approach in Hip Arthropla,RETRACTED,0.99,rw_db
+41399105,,"Kant P, Perry SL, Dexter SP, et al. Mucosal biomarkers of colorectal cancer risk",CLEAN,1.00,user_manual
+40033805,14996748,"Sredni B, Weil M, Khomenok G, Lebenthal I, Teitz S, Mardor Y, et al. (2004). Amm",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,38439170,Effect of two different modalities of hysterectomy on wound infection and wound ,RETRACTED,0.99,rw_db
+POSITIVE_CONTROL,37193587,Effect of single-port video-assisted thoracoscopy on surgical site wound infecti,RETRACTED,0.99,rw_db
+40892447,38664888,"Rivera  A, Gewehr  DM, Braga  MAP, Carvalho  PEP, Ternes  CMP, Pantaleao  AN  et",RETRACTED,0.88,deepseek
+40287616,,"Kitenyi P, Washington L, Kidenya B, Said F, Kituuka O, Challya PL. Patterns of s",RETRACTED,1.00,user_manual
+POSITIVE_CONTROL,35126640,Breastfeeding and Reduced Risk of Breast Cancer: A Systematic Review and Meta-An,RETRACTED,0.99,rw_db
+40033805,12554798,"Gracie JA, Robertson SE, McInnes IB (2003). Interleukin-18. J Leukoc Biol 73(2):",CLEAN,0.85,deepseek
+40925717,,"Kahalley LS, Peterson R, Douglas Ris M, Janzen L, Fatih Okcu M, Grosshans DR, et",CLEAN,1.00,user_manual
+POSITIVE_CONTROL,38140754,A meta-analysis of the risk factors for neurosurgical surgical site infection fo,RETRACTED,0.99,rw_db
+40035891,28168582,"Al-Natour A, Al Momani SM, Qandil AMA (2017) The relationship between spirituali",RETRACTED,0.88,deepseek
+39969311,27956907,"Kazama I, Tamada T. Lymphocyte Kv1.3-channels in the pathogenesis of chronic obs",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,35392147,Comparative Efficacy of Water and Conventional Delivery during Labour: A Systema,RETRACTED,0.99,rw_db
+POSITIVE_CONTROL,37448350,The impact of sarcopenia on prognosis of patients with pancreatic cancer: A syst,RETRACTED,0.99,rw_db
+POSITIVE_CONTROL,37641210,Effect of intramedullary fixation and plate fixation on postoperative wound comp,RETRACTED,0.99,rw_db
+POSITIVE_CONTROL,35122396,A meta-analysis comparing efficiency of limb-salvage surgery vs amputation on pa,RETRACTED,0.99,rw_db
+40038641,36056757,"Kharofa J, Apewokin S, Alenghat T, Ollberding NJ. Metagenomic analysis of the fe",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,35419184,The Association between Long Noncoding RNA over Expression and Poor Prognosis of,RETRACTED,0.99,rw_db
+40999836,,"H. Kurtulmus and H. S. Cotert, “Management of Obstructive Sleep Apnea With a Man",CLEAN,1.00,user_manual
+40038641,31908481,"Chen Y, Chen X, Yu H, Zhou H, Xu S. Oral Microbiota as Promising Diagnostic Biom",RETRACTED,0.88,deepseek
+40033805,18980965,"Waugh DJJ, Wilson C (2008). The interleukin-8 pathway in cancer. Clin Cancer Res",CLEAN,0.85,deepseek
+40033805,12580959,"Wierda WG, Johnson MM, Do KA, Manshouri T, Dey A, O'Brien S, et al. (2003). Plas",RETRACTED,0.88,deepseek
+41201392,,"Schonebaum, LE, van den Berg, SAA, van Balkum, M, Visser, WE, Giovanella, L, Pee",CLEAN,1.00,user_manual
+POSITIVE_CONTROL,24293373,CYP1A2 rs762551 polymorphism contributes to risk of lung cancer: a meta-analysis,RETRACTED,0.99,rw_db
+41204891,36727247,"Barker, T. H. , Stone J. C., Sears K., et al. 2023. “The Revised JBI Critical Ap",CLEAN,0.85,deepseek
+40597050,35290995,"Olsen CM, Pandeya N, Green AC, Ragaini BS, Venn AJ, Whiteman DC. Keratinocyte ca",CLEAN,0.85,deepseek
+41201392,,"Miao, Q, Lv, X, Luo, L, Zhang, J, Cai, B. Exploring the application value of pro",CLEAN,1.00,user_manual
+40033805,26142334,"Hiroki CH, Amarante MK, Petenuci DL, Sakaguchi AY, Trigo FC, Watanabe MA, de Oli",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,38339818,Meta-analysis on the impact of immune senescence: Unravelling the interplay in c,RETRACTED,0.99,rw_db
+41174505,35004681,"Mei Y, Wang S, Feng T, Yan M, Yuan F, Zhu Z, et al. Nomograms involving HER2 for",RETRACTED,0.88,deepseek
+40679761,34108115,"Li J, Liu F, Fang X, et al. CT radiomics features in differentiation of focal-ty",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,36193317,Meta-Analysis of Prognostic Correlation of Thrombectomy for Cerebral Infarction ,RETRACTED,0.99,rw_db
+POSITIVE_CONTROL,24566681,Role of RASSF1A promoter methylation in the pathogenesis of hepatocellular carci,RETRACTED,0.99,rw_db
+40033805,,"Zareinejad M, Samiei A, Valibeigi B, Gholami T, Zareifar S, Amirghofran Z (2017)",CLEAN,1.00,user_manual
+40033805,32767331,"Liu RT, Wang XX, Sun JR, Gao N, Yu WZ (2020). Correlations of IL-6 and IL-10 gen",RETRACTED,0.88,deepseek
+41174505,17334716,"Ishikawa S, Togashi A, Inoue M, Honda S, Nozawa F, Toyama E, et al. Indications ",RETRACTED,0.88,deepseek
+40290044,39232773,"Erfanian S.S., Ansari H., Javanmard S.H., Amini Z., Hajigholami A. The hepatoren",RETRACTED,0.88,deepseek
+40815382,32890786,"Pennington Z, Ehresman J, Lubelski D et al (2021) Assessing underlying bone qual",RETRACTED,0.88,deepseek
+41286158,23452509,"Gurka MK, et al. Stereotactic body radiation therapy with concurrent full-dose g",RETRACTED,0.88,deepseek
+41188771,22691368,"Lei X, Zhu H, Zha L, Wang Y. SP110 gene polymorphisms and tuberculosis susceptib",RETRACTED,0.88,deepseek
+40035891,,Musa AS et al (2023) Translation and validation of the Arabic version of the spi,CLEAN,1.00,user_manual
+40145635,31643080,"Cumpston M., Li T., Page M. J., et al., “Updated Guidance for Trusted Systematic",RETRACTED,0.88,deepseek
+40033805,24030378,"Mardiros A, Dos Santos C, McDonald T, Brown CE, Wang X, Budde LE, et al. (2013).",RETRACTED,0.88,deepseek
+40923939,,"Lisee CM, Montoye AHK, Lewallen NF, et al. Assessment of free-living cadence usi",CLEAN,1.00,user_manual
+40940796,33248648,"Wörheide M.A., Krumsiek J., Kastenmüller G., Arnold M. Multi-omics integration i",CLEAN,0.85,deepseek
+39969311,33854596,"Liu N, Jiang A, Zheng X, et al. Prognostic nutritional index identifies risk of ",RETRACTED,0.88,deepseek
+40145635,32768552,"Al Maqbali M., Al Sinani M., Al Naamani Z., and Al B. K., “Prevalence of Fatigue",RETRACTED,0.88,deepseek
+40136388,35176262,"Zhang P., Dai J., Sun F., Xia H., He W., Duan L., Liu M., Zhao D., Zhu Y., Jiang",RETRACTED,0.88,deepseek
+40679761,19621070,"Liberati A, Altman DG, Tetzlaff J, et al: The PRISMA statement for reporting sys",CLEAN,0.85,deepseek
+39951207,37336832,"Gitto S, Serpi F, Messina C, Albano D, Di Bernardo A, Armiraglio E et al (2023) ",RETRACTED,0.88,deepseek
+40815382,27683674,"Mobbs RJ, Phan K, Malham G, Seex K, Rao PJ (2015) Lumbar interbody fusion: techn",RETRACTED,0.88,deepseek
+40033805,24870448,"Chamorro S, Vela M, Franco-Villanueva A, Carramolino L, Gutiérrez J, Gómez L, et",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,36401595,A meta-analysis examined the effect of stoma on surgical site wound infection in,RETRACTED,0.99,rw_db
+40033805,15626735,"Kawakami M, Kawakami K, Kioi M, Leland P, Puri RK (2005). Hodgkin lymphoma thera",RETRACTED,0.88,deepseek
+40679761,38725633,"Yan Q, Chen Y, Liu C, et al. Predicting histologic grades for pancreatic neuroen",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,36820576,Diagnostic value of ultrasound elastography in triple negative breast cancer: A ,RETRACTED,0.99,rw_db
+40033805,26872697,"Turnis ME, Sawant DV, Szymczak-Workman AL, Andrews LP, Delgoffe GM, Yano H, et a",CLEAN,0.85,deepseek
+40035891,30838697,Shrestha A et al (2019) Quality of life versus length of life considerations in ,RETRACTED,0.88,deepseek
+41204891,36990485,"Barnes, J. , Sewart E., Armstrong R. A., et al. 2023. “Does Melatonin Administra",RETRACTED,0.88,deepseek
+41085225,,"Signorello LB, Cohen SS, Bosetti C, et al. Female survivors of childhood cancer:",CLEAN,1.00,user_manual
+40035891,22042225,Nissim R et al (2012) Managing Cancer and Living Meaningfully (CALM): a qualitat,CLEAN,0.85,deepseek
+40035891,,Peplau HE (1994) Quality of life: an interpersonal perspective. Nurse Sci Q 7(1),RETRACTED,1.00,user_manual
+40033805,10764142,"Frankel AE, McCubrey JA, Miller MS, Delatte S, Ramage J, Kiser M, et al. (2000).",RETRACTED,0.88,deepseek
+40145635,22526147,"Hwang C. L., Yu C. J., Shih J. Y., Yang P. C., and Wu Y. T., “Effects of Exercis",RETRACTED,0.88,deepseek
+40033805,29434597,"Somovilla-Crespo B, Martín Monzón MT, Vela M, Corraliza-Gorjón I, Santamaria S, ",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,38600417,Bridging the gap: robotic applications in cerebral aneurysms neurointerventions ,RETRACTED,0.99,rw_db
+41286158,19273710,"Iacobuzio-Donahue CA, et al. DPC4 gene status of the primary carcinoma correlate",RETRACTED,0.88,deepseek
+40035891,33771405,"Lee MK (2021) Interactions of spiritual well-being, symptoms, and quality of lif",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,36060662,Efficacy of Cetuximab in Nasopharyngeal Carcinoma Patients Receiving Concurrent ,RETRACTED,0.99,rw_db
+POSITIVE_CONTROL,37919995,ICG fluorescence imaging technology in laparoscopic liver resection for primary ,RETRACTED,0.99,rw_db
+POSITIVE_CONTROL,38272817,Meta-analysis of the impact of laser interstitial hyperthermia on wound healing ,RETRACTED,0.99,rw_db
+POSITIVE_CONTROL,16528610,Psychological impact of genetic counseling for familial cancer: a systematic rev,RETRACTED,0.99,rw_db
+40815382,37008803,"Zhao H, Wang YJ, Wang RG et al (2023) Three-dimensional hounsfield units measure",RETRACTED,0.88,deepseek
+40892447,30371296,"Seewöster  T, Büttner  P, Nedios  S, Sommer  P, Dagres  N, Schumacher  K  et al.",RETRACTED,0.88,deepseek
+41188771,32354122,"Litak J, Grochowski C, Litak J, Osuchowska I, Gosik K, Radzikowska E et al. TLR-",RETRACTED,0.88,deepseek
+41201392,,"Kim, KW, Lee, J, Choi, SH, Huh, J, Park, SH. Systematic review and meta-analysis",RETRACTED,1.00,user_manual
+40815382,,PRISMA statement. PRISMA statement. Accessed April 22 (2024) https://www.prisma-,RETRACTED,1.00,user_manual
+40892447,38555664,"Higgins  JPT, Morgan  RL, Rooney  AA, Taylor  KW, Thayer  KA, Silva  RA  et al. ",RETRACTED,0.88,deepseek
+40033805,33279175,"Slade MJ, Uy GL (2020). CD123 bi-specific antibodies in development in AML: What",CLEAN,0.85,deepseek
+40679761,,Liao WC. Early detection of pancreatic cancer: opportunities provided by cancer-,CLEAN,1.00,user_manual
+40038641,28111632,"* Kato I, Vasquez AA, Moyerbrailean G, Land S, Sun J, Lin H-S, et al. Oral micro",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,38083831,Influence of continuous nursing on surgical site wound infection and postoperati,RETRACTED,0.99,rw_db
+40287616,27502400,"Tolstrup M-B, Watt SK, Gögenur I. Morbidity and mortality rates after emergency ",RETRACTED,0.88,deepseek
+41204891,32658246,"Goldberg, T. E. , Chen C., Wang Y., et al. 2020. “Association of Delirium With L",CLEAN,0.85,deepseek
+40033805,15831231,"Brat DJ, Bellail AC, Van Meir EG (2005). The role of interleukin-8 and its recep",CLEAN,0.85,deepseek
+40747640,34446379,"Craig EJ, Ramsey AT, Baker TB, et al. Point of care tobacco treatment sustains d",RETRACTED,0.88,deepseek
+40145635,26030634,"Hutton B., Salanti G., Caldwell D. M., et al., “The PRISMA Extension Statement f",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,34956581,To Investigate the Effect of Glucocorticoids on Blood Loss during and after Firs,RETRACTED,0.99,rw_db
+40597050,26429634,"Katalinic A, Eisemann N, Waldmann A. Skin Cancer screening in germany. Documenti",RETRACTED,0.88,deepseek
+41317088,27610467,"Sun Y, Jin L, Liu JH, et al. Interfering EZH2 expression reverses the cisplatin ",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,37679956,Effect of suture closure and staple closure on postoperative wound complications,RETRACTED,0.99,rw_db
+40038641,34243011,"Xi Y, Xu P. Global colorectal cancer burden in 2020 and projections to 2040. Tra",RETRACTED,0.88,deepseek
+40038641,36604116,"Morgan E, Arnold M, Gini A, Lorenzoni V, Cabasag CJ, Laversanne M, et al. Global",CLEAN,0.85,deepseek
+POSITIVE_CONTROL,37328950,Amputation and limb salvage following endovascular and open surgery for the trea,RETRACTED,0.99,rw_db
+POSITIVE_CONTROL,26786924,Inferring the Effects of Cancer Treatment: Divergent Results From Early Breast C,RETRACTED,0.99,rw_db
+41188771,12855769,"Gu H, Roizman B. The degradation of promyelocytic leukemia and Sp100 proteins by",RETRACTED,0.88,deepseek
+40038641,35256335,"Villar-Ortega P, Expósito-Ruiz M, Gutiérrez-Soto M, Ruiz-Cabello Jiménez M, Nava",RETRACTED,0.88,deepseek
+40597050,23182058,"Mar V, Roberts H, Wolfe R, English DR, Kelly JW. Nodular melanoma: a distinct cl",RETRACTED,0.88,deepseek
+40033805,15614527,"Cohen KA, Liu TF, Cline JM, Wagner JD, Hall PD, Frankel AE (2005). Safety evalua",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,38351522,Effect of laparoscopic and open distal pancreatectomy on postoperative wound com,RETRACTED,0.99,rw_db
+41148318,33454307,"Viannay P, de la Codre F, Brochard C, Thubert T, Meurette G, Legendre G, et al. ",RETRACTED,0.88,deepseek
+41286158,31682550,"Marabelle A, et al. Efficacy of pembrolizumab in patients with noncolorectal hig",RETRACTED,0.88,deepseek
+40033805,30850736,"Akkapeddi P, Fragoso R, Hixon JA, Ramalho AS, Oliveira ML, Carvalho T, et al. (2",RETRACTED,0.88,deepseek
+40679761,35788343,"Mukherjee S, Patra A, Khasawneh H, et al: Radiomics-based machine-learning model",RETRACTED,0.88,deepseek
+40033805,16688182,"Langowski JL, Zhang X, Wu L, Mattson JD, Chen T, Smith K, et al. (2006). IL-23 p",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,25108671,The Clinical Utility of Matrix Metalloproteinase 9 in Evaluating Pathological Gr,RETRACTED,0.99,rw_db
+40892447,35785368,"Aksan  G, Yanık  A, Yontar  OC, Boyacı  F, Uçar  M, Şahin  MK  et al.  The predi",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,22677269,Correlation between TGF-β1-509 C>T polymorphism and risk of digestive tract canc,RETRACTED,0.99,rw_db
+40940796,32239350,"Radakovich N., Nagy M., Nazha A. Artificial intelligence in hematology: Current ",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,37555547,A meta-analysis comparing the effects of cemented and uncemented prostheses on w,RETRACTED,0.99,rw_db
+39969368,,Available at:  https://www.who.int/zh/news-room/fact-sheets/detail/cancer. Acces,CLEAN,1.00,user_manual
+40038641,28935701,"Shea BJ, Reeves BC, Wells G, Thuku M, Hamel C, Moran J, et al. AMSTAR 2: a criti",RETRACTED,0.88,deepseek
+40033805,31235509,"Spencer S, Köstel Bal S, Egner W, Lango Allen H, Raza SI, Ma CA, et al. (2019). ",RETRACTED,0.88,deepseek
+40290044,38754041,"Bower J.E., Lacchetti C., Alici Y., Barton D.L., Bruner D., Canin B.E., Escalant",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,24952891,Aberrant promoter methylation of the CHD1 gene may contribute to the pathogenesi,RETRACTED,0.99,rw_db
+40038641,37325051,"* Kerdreux M, Edin S, Löwenmark T, Bronnec V, Löfgren-Burström A, Zingmark C, et",RETRACTED,0.88,deepseek
+41204891,32234103,"Wang, H. , Zhang L., Luo Q., Li Y., and Yan F.. 2020. “Effect of Sleep Disorder ",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,38272814,Effects of evidence-based nursing on surgical site wound infections in patients ,RETRACTED,0.99,rw_db
+40033805,16425276,"Inagaki A, Ishida T, Ishii T, Komatsu H, Iida S, Ding J, et al. (2006). Clinical",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,37309291,Intrawound vancomycin powder in orthopaedic surgery as surgical site wound infec,RETRACTED,0.99,rw_db
+41204891,,"Atalan, N. , and Sevim M. E.. 2013. “Post‐Operative Delirium Associated With Pro",RETRACTED,1.00,user_manual
+39969311,37598676,"Nishihara-Kato F, Imai H, Tsuda T, et al. Prognostic potential of the prognostic",RETRACTED,0.88,deepseek
+40035891,26892973,"Karimi M, Brazier J (2016) Health, health-related quality of life, and quality o",CLEAN,0.85,deepseek
+POSITIVE_CONTROL,33901218,Prognostic and clinicopathological significance of C-reactive protein/albumin ra,RETRACTED,0.99,rw_db
+40145635,30564936,"Kim J. Y., Lee M. K., Lee D. H., et al., “Effects of a 12‐Week Home‐Based Exerci",RETRACTED,0.88,deepseek
+40960690,39954167,"Mohammadzadeh I, Hajikarimloo B, Niroomand B, Eini P, Ghanbarnia R, Habibi MA, e",RETRACTED,0.88,deepseek
+40815382,,"Courtois EC, Davidson I (Uche), Ohnmeiss DD, Guyer RD (eds) (2023) Evaluating al",CLEAN,1.00,user_manual
+40290044,38263138,"Omerovic E., Petrie M., Redfors B., Fremes S., Murphy G., Marquis-Gravel G., Lan",CLEAN,0.85,deepseek
+40999836,,"J. A. Sterne, M. A. Hernán, B. C. Reeves, et al., “ROBINS‐I: A Tool for Assessin",RETRACTED,1.00,user_manual
+40038641,35102554,"Zhou X, Wang L, Xiao J, Sun J, Yu L, Zhang H, et al. Alcohol consumption, DNA me",RETRACTED,0.88,deepseek
+41201392,,"Yoshimura, T, Fujita, K, Kawakami, S, Takeda, K, Chan, S, Beligere, G, et al.. S",RETRACTED,1.00,user_manual
+POSITIVE_CONTROL,26003452,Does ovarian stimulation for IVF increase gynaecological cancer risk? A systemat,RETRACTED,0.99,rw_db
+40892447,35863814,"Yang  G, Zheng  L, Jiang  C, Fan  J, Liu  X, Zhan  X  et al.  Circumferential pu",RETRACTED,0.88,deepseek
+40356837,,United States Food and Drug Administration . FDA approves first generics of Eliq,CLEAN,1.00,user_manual
+POSITIVE_CONTROL,25023404,Common polymorphism in the MMP-13 gene may contribute to the risk of human cance,RETRACTED,0.99,rw_db
+POSITIVE_CONTROL,37293742,Surgical site wound infection and wound pain after video-assisted thoracoscopy i,RETRACTED,0.99,rw_db
+40033805,22829135,"Yu M, Gang EJ, Parameswaran R, Stoddart S, Fei F, Schmidhuber S, et al. (2011). ",RETRACTED,0.88,deepseek
+40038641,36145102,"Chang C, Yuan X, Zhang X, Chen X, Li K. Gastrointestinal Microbiome and Multiple",RETRACTED,0.88,deepseek
+40033805,19020503,"Rebouissou S, Amessou M, Couchy G, Poussin K, Imbeaud S, Pilati C, et al. (2009)",RETRACTED,0.88,deepseek
+41188771,34882582,"Yi SH, Yan YT, Jin ML, Bhattacharya S, Wang Y, Wu YM et al. Genomic and transcri",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,35979049,Grading Evaluation of Cardiotoxicity in Patients with Breast Cancer Treated with,RETRACTED,0.99,rw_db
+40033805,36226493,"Ågerstam H, Lilljebjörn H, Rissler M, Sandén C, Fioretos T (2022). IL1RAP is exp",RETRACTED,0.88,deepseek
+40033805,25363727,"Horacek JM, Kupsa T, Vasatova M, Jebavy L, Zak P (2015). Serum cytokine and adhe",RETRACTED,0.88,deepseek
+41286158,,"Wang, N., et al. New Approved First-line Combining Therapy of NSCLC in 2020. in ",CLEAN,1.00,user_manual
+41399105,,"Chiappetta S, Schaack HM, Wölnerhannsen B, et al. The impact of obesity and meta",CLEAN,1.00,user_manual
+40033805,34235838,"Zampogiannis A, Piperi C, Baka M, Zoi I, Papavassiliou AG, Moschovi M (2021). Lo",RETRACTED,0.88,deepseek
+40033805,17296584,"Scupoli MT, Perbellini O, Krampera M, Vinante F, Cioffi F, Pizzolo G (2007). Int",RETRACTED,0.88,deepseek
+40925717,,"Shamseer L, Moher D, Clarke M, Ghersi D, Liberati A, Petticrew M, et al. Preferr",CLEAN,1.00,user_manual
+41286158,17228145,"Barugola G, et al. The determinant factors of recurrence following resection for",RETRACTED,0.88,deepseek
+41174505,26884381,"Sekiguchi M, Oda I, Taniguchi H, Suzuki H, Morita S, Fukagawa T, et al. Risk str",RETRACTED,0.88,deepseek
+41146130,26030634,"Hutton B, Salanti G, Caldwell DM, Chaimani A, Schmid CH, Cameron C, et al. The P",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,35774293,Effects of Enhanced Recovery Rehabilitation Surgery Concepts on the Surgical Pro,RETRACTED,0.99,rw_db
+41146130,39818272,"Bagchi P, Sidana S, Baviskar P, Natarajan S, Ahuja S, Balkawade R. Which is the ",RETRACTED,0.88,deepseek
+41188771,35368888,"Zhou H, Wu LM, Yu LJ, Yang YB, Kong LL, Liu S et al. Identify a DNA Damage Repai",RETRACTED,0.85,journal_risk
+POSITIVE_CONTROL,36034204,Meta-Analysis of PKP or PVP Combined with Acupuncture in the Treatment of Osteop,RETRACTED,0.99,rw_db
+39969368,,"Wang F, Wang W, Du R. The application value of pelvic floor peritoneal closure i",CLEAN,1.00,user_manual
+40145635,28403893,"Mbuagbaw L., Rochwerg B., Jaeschke R., et al., “Approaches to Interpreting and C",CLEAN,0.85,deepseek
+41188771,22718861,"Arumugam T, Ramachandran V, Gomez SB, Schmidt AM, Logsdon CD. S100p-derived RAGE",RETRACTED,0.88,deepseek
+40033805,34788131,"Ye C, Yano H, Workman CJ, Vignali DAA (2021). Interleukin-35: Structure, Functio",CLEAN,0.85,deepseek
+40035891,27271809,Bai M et al (2016) Exploring the individual patterns of spiritual well-being in ,RETRACTED,0.88,deepseek
+41174505,32460771,"Yuan L, Xu ZY, Ruan SM, Mo S, Qin JJ, Cheng XD. Long non-coding RNAs towards pre",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,24435745,Lack of association of XRCC1 rs1799782 genetic polymorphism with risk of pancrea,RETRACTED,0.99,rw_db
+POSITIVE_CONTROL,40349787,Association Between Kidney Stones and Subsequent Risk of Upper Tract Urothelial ,RETRACTED,0.99,rw_db
+40960690,,"Saleh GA, Batouty NM, Gamal A, Elnakib A, Hamdy O, Sharafeldeen A, et al. Impact",CLEAN,1.00,user_manual
+40038641,32337748,"* Gao R, Wang Z, Li H, Cao Z, Gao Z, Chen H, et al. Gut microbiota dysbiosis sig",RETRACTED,0.88,deepseek
+40033805,34655194,"Zhang K, Li X, Huang R, Chen C, Hu W (2021). IL-10 as an Indicator for Predictin",RETRACTED,0.88,deepseek
+41204891,35990939,"Kadier, K. , Qin L., Ainiwaer A., et al. 2022. “Association of Sleep‐Related Dis",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,37350616,Platelet-rich plasma influence on the sternal wounds healing: A meta-analysis.. ,RETRACTED,0.99,rw_db
+40035891,8829161,"Ferrell BR (1996) The quality of lives: 1,525 voices of cancer. Oncol Nurs Forum",CLEAN,0.85,deepseek
+41399105,,"Binboga S, Isıksacan N, Kasapoğlu P, et al. Plasma presepsin in determining gast",RETRACTED,1.00,user_manual
+40035891,12008794,Peterman AH et al (2002) Measuring spiritual well-being in people with cancer: t,CLEAN,0.85,deepseek
+40145635,37126034,"Wang L., Quan M., Nieman D. C., et al., “Effects of High‐Intensity Interval Trai",RETRACTED,0.88,deepseek
+41085225,,"Gonçalves V, Sehovic I, Quinn G. Childbearing attitudes and decisions of young b",RETRACTED,1.00,user_manual
+40356837,23430767,"Khorana AA, Dalal MR, Lin J, Connolly GC. Health care costs associated with veno",RETRACTED,0.88,deepseek
+40940796,,Harari Y.N. Dataism is Our New God. New Perspect. Q. 2017;34:36–43. doi: 10.1111,RETRACTED,1.00,user_manual
+40033805,11244051,"Moore KW, de Waal Malefyt R, Coffman RL, O'Garra A (2001). Interleukin-10 and th",CLEAN,0.85,deepseek
+41089680,39643999,"Russler-Germain DA, Bartlett NL. Sequencing bispecific antibodies and CAR T cell",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,24048755,Vitamin D receptor gene ApaI polymorphism and breast cancer susceptibility: a me,RETRACTED,0.99,rw_db
+40747640,26262565,"Lockwood C, Munn Z, Porritt K. Qualitative research synthesis: methodological gu",CLEAN,0.85,deepseek
+40923939,,"Filbay SR, Culvenor AG, Ackerman IN, et al. Quality of life in anterior cruciate",CLEAN,1.00,user_manual
+40290044,38835932,"Nejadghaderi S.A., Balibegloo M., Rezaei N. The Cochrane risk of bias assessment",CLEAN,0.85,deepseek
+40597050,,Covidence systematic [internet]eview software [Internet]. Veritas Health Innovat,CLEAN,1.00,user_manual
+40960690,39045652,"Wu Y, Li Y, Chen B, Zhang Y, Xing W, Guo B, et al. 18F-FDG PET/CT for early pred",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,38356179,Effect of wound drainage on the wound infection and healing in patients undergoi,RETRACTED,0.99,rw_db
+POSITIVE_CONTROL,28591045,The efficiency and safety of tranexamic acid for reducing blood loss in open myo,RETRACTED,0.99,rw_db
+40925717,,"Miller NG, Reddick WE, Kocak M, Glass JO, Lobel U, Morris B, et al. Cerebellocer",CLEAN,1.00,user_manual
+POSITIVE_CONTROL,35140901,Quality of Life in Patients with Breast Cancer following Breast Conservation Sur,RETRACTED,0.99,rw_db
+POSITIVE_CONTROL,37675805,Wound infection in robotic-assisted radical prostatectomy compared with retropub,RETRACTED,0.99,rw_db
+41085225,,"Van Der Kooi ALLF, Brewster DH, Wood R, et al. Perinatal risks in female cancer ",RETRACTED,1.00,user_manual
+41286158,27311310,"Comito T, et al. Can stereotactic body radiation therapy be a viable and efficie",RETRACTED,0.88,deepseek
+40597050,26302687,"Claeson M, Hallberg S, Holmstrom P, Wennberg AM, Gonzalez H, Paoli J. Modelling ",RETRACTED,0.88,deepseek
+40033805,26261316,"Ågerstam H, Karlsson C, Hansen N, Sandén C, Askmyr M, von Palffy S, et al. (2015",RETRACTED,0.88,deepseek
+41188771,22395470,"Yamazaki J, Taby R, Vasanthakumar A, Macrae T, Ostler KR, Shen LL, et al. Effect",RETRACTED,0.88,deepseek
+40892447,33206418,"Hojo  R, Fukamizu  S, Tokioka  S, Inagaki  D, Kimura  T, Takahashi  M  et al.  T",RETRACTED,0.88,deepseek
+40679761,36276650,"Huang B, Huang H, Zhang S, et al: Artificial intelligence in pancreatic cancer. ",CLEAN,0.85,deepseek
+40932611,34712513,"Zhao ZR, Yang CP, Chen S, Yu H, Lin YB, Lin YB, et al. Phase 2 trial of neoadjuv",RETRACTED,0.88,deepseek
+41146130,9590338,Boyne PJ. An intraoral approach to the treatment of condylar hyperplasia or high,RETRACTED,0.88,deepseek
+40033805,35131871,"Casado-García A, Isidro-Hernández M, Oak N, Mayado A, Mann-Ran C, Raboso-Gallego",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,36017392,Factors Influencing Cerebrospinal Fluid Leaking following Pituitary Adenoma Tran,RETRACTED,0.99,rw_db
+40038641,33385426,"Wijnands AM, de Jong ME, Lutgens MWMD, Hoentjen F, Elias SG, Oldenburg B, et al.",RETRACTED,0.88,deepseek
+40940796,37710019,"Velten B., Stegle O. Principles and challenges of modeling temporal and spatial ",RETRACTED,0.88,deepseek
+40923939,,"Booth FW, Roberts CK, Thyfault JP, et al. Role of inactivity in chronic diseases",CLEAN,1.00,user_manual
+POSITIVE_CONTROL,23090633,The interaction between smoking and GSTM1 variant on lung cancer in the Chinese ,RETRACTED,0.99,rw_db
+40940796,34497767,"Lee J., Cho S., Hong S.-E., Kang D., Choi H., Lee J.-M., Yoon J.-H., Cho B.-S., ",RETRACTED,0.88,deepseek
+40747640,36898367,"Shields PG, Bierut L, Arenberg D, et al. Smoking cessation, version 3.2022, NCCN",RETRACTED,0.88,deepseek
+40940796,11726920,"Brazma A., Hingamp P., Quackenbush J., Sherlock G., Spellman P., Stoeckert C., A",RETRACTED,0.88,deepseek
+40892447,38418063,Allessie  MA. Atrial fibrillation begets atrial fibrillation: the role of electr,RETRACTED,0.88,deepseek
+41085225,,"Scholz AS, von Au A, Gutsfeld R, et al. Adverse obstetric outcomes after breast ",RETRACTED,1.00,user_manual
+41188771,28481885,"Franks A, Airoldi E, Slavov N. Post-transcriptional regulation across human tiss",CLEAN,0.85,deepseek
+POSITIVE_CONTROL,35756422,Excimer Laser Corneal Refractive Surgery in the Clinic: A Systematic Review and ,RETRACTED,0.99,rw_db
+POSITIVE_CONTROL,23558966,XRCC3 T241M polymorphism is associated risk of hepatocellular carcinoma in the C,RETRACTED,0.99,rw_db
+POSITIVE_CONTROL,37592759,Effect of accelerated rehabilitation nursing programmes on surgical site wound i,RETRACTED,0.99,rw_db
+POSITIVE_CONTROL,36336978,Oncological results in women with wound complications following mastectomy and i,RETRACTED,0.99,rw_db
+39969368,,"Wu SW, Qiao TT, Ma CC. Efficacy study of pelvic peritoneal closure technique in ",CLEAN,1.00,user_manual
+40940796,36610431,Obstfeld A.E. Hematology and machine learning. J. Appl. Lab. Med. 2023;8:129–144,RETRACTED,0.88,deepseek
+41085225,,"Teh WT, Stern C, Chander S, Hickey M. The impact of uterine radiation on subsequ",RETRACTED,0.85,journal_risk
+40925717,,"Imms P, Domínguez D JF, Burmester A, Seguin C, Clemente A, Dhollander T, et al. ",CLEAN,1.00,user_manual
+40356837,29746227,"Young AM, Marshall A, Thirlwall J, Chapman O, Lokare A, Hill C, et al. Compariso",RETRACTED,0.88,deepseek
+40136388,33782057,"Page M.J., McKenzie J.E., Bossuyt P.M., Boutron I., Hoffmann T.C., Mulrow C.D., ",CLEAN,0.85,deepseek
+39969368,5001853,Miles WE. A method of performing abdominoperineal excision for carcinoma of the ,RETRACTED,0.88,deepseek
+41188771,38561760,"Qiu C, Wang W, Xu S, Li Y, Zhu J, Zhang Y, et al. Construction and validation of",RETRACTED,0.88,deepseek
+40940796,36637211,"Feldner-Busztin D., Nisantzis P.F., Edmunds S.J., Boza G., Racimo F., Gopalakris",RETRACTED,0.88,deepseek
+40033805,26898188,"Nievergall E, Reynolds J, Kok CH, Watkins DB, Biondo M, Busfield SJ, et al. (201",RETRACTED,0.88,deepseek
+40038641,31157977,"* Guven DC, Dizdar O, Alp A, Akdoǧan Kittana FN, Karakoc D, Hamaloglu E, et al. ",RETRACTED,0.88,deepseek
+41085225,,"Sabeti Rad Z, Friberg B, Henic E, et al. Deliveries after malignant disease befo",RETRACTED,1.00,user_manual
+39969368,,"Ma X, Liu AW, Qiu JF. Comparison of the mid-term follow-up outcomes of different",RETRACTED,1.00,user_manual
+41188771,34975408,"Otazu GK, Dayyani M, Badie B. Role of RAGE and its ligands on inflammatory respo",RETRACTED,0.88,deepseek
+40747640,,Quit Smoking - the Benefits for People with Cancer. Ontario Health. https://www.,CLEAN,1.00,user_manual
+POSITIVE_CONTROL,37309086,Effects of dexmedetomidine on surgical site wound pain in patients undergoing la,RETRACTED,0.99,rw_db
+41146130,28259600,"Armond ACV, Martins CC, Glória JCR, Galvão EL, Dos Santos CRR, Falci SGM. Influe",RETRACTED,0.88,deepseek
+40815382,34736351,"Wu H, Cheung JPY, Zhang T et al (2023) The role of Hounsfield unit in intraopera",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,25148935,The Clinical Implications of Transforming Growth Factor Beta in Pathological Gra,RETRACTED,0.99,rw_db
+40597050,29790020,"Lee D, Amadi A, Sabater J, Ellis J, Johnson H, Kotapati S, et al. Can we accurat",RETRACTED,0.88,deepseek
+40679761,32877335,"Qiu JJ, Yin J, Qian W, et al. A novel multiresolution-statistical texture analys",RETRACTED,0.88,deepseek
+41188771,33598438,Collados RodríguezM. The fate of speckled protein 100 (Sp100) during herpesvirus,RETRACTED,0.88,deepseek
+40035891,32580795,Pahlevan Sharif S et al (2021) Spirituality and quality of life in women with br,RETRACTED,0.88,deepseek
+40932611,36810079,"Lahiri A, Maji A, Potdar PD, Singh N, Parikh P, Bisht B, et al. Lung cancer immu",CLEAN,0.85,deepseek
+40033805,,"Tu S, Deng L, Huang R, Zhou X, Yang J, Zhou W, et al. (2018). A Novel Chimeric A",CLEAN,1.00,user_manual
+41188771,35978049,"Zhou Y, Shao YJ, Hu WW, Zhang JP, Shi YF, Kong XY, et al. A novel long noncoding",RETRACTED,0.88,deepseek
+41188771,28783698,"Mehta S, Cronkite DA, Basavappa M, Saunders TL, Adiliaghdam F, Amatullah H et al",RETRACTED,0.88,deepseek
+40287616,8024356,"Cullen DJ, Apolone G, Greenfield S, Guadagnoli E, Cleary P. ASA physical status ",CLEAN,0.85,deepseek
+40356837,25925555,"Chew TW, Gau CS, Wen YW, Shen LJ, Mullins CD, Hsiao FY. Epidemiology, clinical p",RETRACTED,0.88,deepseek
+40940796,27312051,"Abdel-Fatah T.M.A., Agarwal D., Liu D.-X., Russell R., Rueda O.M., Liu K., Xu B.",RETRACTED,0.88,deepseek
+40940796,37958554,"Katsenou A., O’farrell R., Dowling P., Heckman C.A., O’gorman P., Bazou D. Using",RETRACTED,0.88,deepseek
+41174505,26752931,"Zheng Z, Zhang Y, Zhang L, Li Z, Wu A, Wu X, et al. Nomogram for predicting lymp",CLEAN,0.85,deepseek
+40747640,,Research AfHPaS . Rapid Reviews to Strength Health Policy and Systems: A Practic,CLEAN,1.00,user_manual
+40923939,,"Costello KE, Felson DT, Jafarzadeh SR, et al. Gait, physical activity and tibiof",RETRACTED,1.00,user_manual
+40035891,34055377,Randazzo DM et al (2021) Spiritual well-being and its association with health-re,RETRACTED,0.88,deepseek
+40679761,31307634,"He M, Liu Z, Lin Y, et al. Differentiation of atypical non-functional pancreatic",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,37493021,A meta-analysis of the effect of laparoscopic gastric resection on the surgical ,RETRACTED,0.99,rw_db
+40356837,33782057,"Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The ",CLEAN,0.85,deepseek
+40356837,12407439,"Caine GJ, Stonelake PS, Lip GY, Kehoe ST. The hypercoagulable state of malignanc",CLEAN,0.85,deepseek
+41204891,29493837,"Simeone, S. , Pucciarelli G., Perrone M., et al. 2018. “Delirium in ICU Patients",CLEAN,0.85,deepseek
+40747640,,CDC Museum COVID-19 Timeline. Centers for Disease Control and Prevention. https:,CLEAN,1.00,user_manual
+41148318,32675902,"Ononuju C, Ogu R, Nyengidiki T, Onwubuariri M, Amadi S, Ezeaku E. Review of epis",RETRACTED,0.88,deepseek
+40932611,35344061,"Manson G, Lemchukwu AC, Mokrane FZ, Lopci E, Aide N, Vercellino L, et al. Interp",RETRACTED,0.88,deepseek
+41174505,33934939,"Oh YJ, Kim DH, Han WH, Eom BW, Kim YI, Yoon HM, et al. Risk factors for lymph no",RETRACTED,0.88,deepseek
+40923939,,"Kvist J, Filbay S, Andersson C, et al. Radiographic and radiographic and symptom",CLEAN,1.00,user_manual
+41148318,33157498,"Arendsen LP, Thakar R, Bassett P, Sultan AH. A double blind randomized controlle",RETRACTED,0.88,deepseek
+41085225,,"Lee BC, Yen RF, Lin CL, Liang JA, Lin MC, Kao CH. Pregnancy incidence in female ",RETRACTED,1.00,user_manual
+40960690,,"Mathew A, Amudha P, Sivakumari S. Deep learning techniques: an overview. In: Has",CLEAN,1.00,user_manual
+41146130,37075291,"Lai BR, Liao HT. The comparison of functional outcomes in patients with unilater",RETRACTED,0.88,deepseek
+40033805,23294096,"Sison EAR, Rau RE, McIntyre E, Li L, Small D, Brown P (2013). MLL-rearranged acu",RETRACTED,0.88,deepseek
+40033805,1785668,"Sunderland MC, Roodman GD (1991). Interleukin-3. Its biology and potential uses ",CLEAN,0.85,deepseek
+40923939,,"Brown TD, Johnston RC, Saltzman CL, et al. Posttraumatic osteoarthritis: a first",RETRACTED,1.00,user_manual
+40597050,19737291,"Seidler AM, Bramlette TB, Washington CV, Szeto H, Chen SC. Mohs versus tradition",RETRACTED,0.88,deepseek
+41188771,39718989,"Tamburri S, Zucchelli C, Matafora V, Zapparoli E, Jevtic Z, Farris F et al. SP14",RETRACTED,0.88,deepseek
+40145635,21818124,"Irwin M. R. and Cole S. W., “Reciprocal Regulation of the Neural and Innate Immu",CLEAN,0.85,deepseek
+POSITIVE_CONTROL,37337468,Comparison of wound complications between one-stage and two-stage brachiobasilic,RETRACTED,0.99,rw_db
+40932611,38749033,"Cascone T, Awad MM, Spicer JD, He J, Lu S, Sepesi B, et al. Perioperative nivolu",CLEAN,0.85,deepseek
+41204891,16477954,"Shaw, I. R. , Lavigne G., Mayer P., and Choinière M.. 2005. “Acute Intravenous A",RETRACTED,0.88,deepseek
+40033805,18042804,"Seita J, Asakawa M, Ooehara J, Takayanagi SI, Morita Y, Watanabe N, et al. (2008",RETRACTED,0.88,deepseek
+40356837,,Generic Xarelto Availability . (2024). Available online at: https://www.drugs.co,RETRACTED,1.00,user_manual
+41148318,1856765,"McGuinness M, Norr K, Nacion K. Comparison between different perineal outcomes o",RETRACTED,0.88,deepseek
+40815382,34789220,"Zhou J, Yuan C, Liu C, Zhou L, Wang J (2021) Hounsfield unit value on CT as a pr",RETRACTED,0.88,deepseek
+39969368,,Wang F. The application of extraperitoneal colostomy combined with pelvic floor ,RETRACTED,1.00,user_manual
+POSITIVE_CONTROL,38584331,The role of traditional Chinese medicine in postoperative wound complications of,RETRACTED,0.99,rw_db
+40145635,23989030,"Reis D., Walsh M. E., Young‐McCaughan S., and Jones T., “Effects of Nia Exercise",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,25051917,Correlations of IFN-γ genetic polymorphisms with susceptibility to breast cancer,RETRACTED,0.99,rw_db
+40035891,16288679,King M et al (2006) Measuring spiritual belief: development and standardization ,CLEAN,0.85,deepseek
+POSITIVE_CONTROL,38531356,The effect of primary closure versus secondary closure techniques on postoperati,RETRACTED,0.99,rw_db
+40033805,31764513,"Solati H, Zareinejad M, Ghavami A, Ghasemi Z, Amirghofran Z (2020). IL-35 and IL",RETRACTED,0.88,deepseek
+40035891,35723546,"Dettori JR, Norvell DC, Chapman JR (2022) Fixed-effect vs random-effects models ",CLEAN,0.85,deepseek
+POSITIVE_CONTROL,24566684,Aberrant promoter methylation of RASSF1A gene may be correlated with colorectal ,RETRACTED,0.99,rw_db
+40925717,,"Malbari F, Gill J, Daigle A, Rodriguez LL, Raghubar KP, Davis KC, et al. Cerebel",CLEAN,1.00,user_manual
+40033805,28408464,"Reshmi SC, Harvey RC, Roberts KG, Stonerock E, Smith A, Jenkins H, et al. (2017)",RETRACTED,0.88,deepseek
+41148318,29927193,"Kovavisarach E, Laiamnuay J. Pregnancy outcomes of healthy parturients delivered",RETRACTED,0.88,deepseek
+41085225,,"Wo JY, Viswanathan AN. The impact of radiotherapy on fertility, pregnancy, and n",CLEAN,1.00,user_manual
+41286158,29166754,"Grimaldi, S., M. Terroir, and C. Caramella, Advances in oncological treatment: l",RETRACTED,0.88,deepseek
+40033805,34727170,"Fitch BA, Zhou M, Situ J, Surianarayanan S, Reeves MQ, Hermiston ML, et al. (202",RETRACTED,0.88,deepseek
+41399105,,"Haddaway NR, Page MJ, Pritchard CC, et al. PRISMA2020: an R package and shiny ap",CLEAN,1.00,user_manual
+POSITIVE_CONTROL,36924416,Prevalence of different types of wound infection in subjects with Parkinson's di,RETRACTED,0.99,rw_db
+40035891,,Jorquera-Cox M (2023) Validation of the Spanish version of P. Reed’s spiritual p,RETRACTED,1.00,user_manual
+POSITIVE_CONTROL,38093697,Effect of endoscopic mucosal resection and endoscopic submucosal dissection on p,RETRACTED,0.99,rw_db
+40038641,27171425,"* Vogtmann E, Hua X, Zeller G, Sunagawa S, Voigt AY, Hercog R, et al. Colorectal",RETRACTED,0.88,deepseek
+40290044,36279902,"Becerra-Tomás N., Balducci K., Abar L., Aune D., Cariolou M., Greenwood D.C., Ma",RETRACTED,0.88,deepseek
+40033805,34114369,"Liu C, Chu D, Kalantar-Zadeh K, George J, Young HA, Liu G (2021a). Cytokines: Fr",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,35535227,Risk Factors for TERT Promoter Mutations with Papillary Thyroid Carcinoma Patien,RETRACTED,0.99,rw_db
+40892447,35963813,"Wang  J, Sun  X, Liu  W, Zhu  X, Zhu  Y, Lin  S  et al.  Cardiac computed tomogr",RETRACTED,0.88,deepseek
+40940796,37509272,"Jiang X., Hu Z., Wang S., Zhang Y. Deep Learning for Medical Image-Based Cancer ",RETRACTED,0.88,deepseek
+41188771,,OSF [Internet]. Clinical and Mechanistic Insights into the Expression of SP100 F,RETRACTED,1.00,user_manual
+40038641,31697412,"Zhang Y, Sun C, Song EJ, Liang M, Shi T, Min M, et al. Is periodontitis a risk i",RETRACTED,0.88,deepseek
+40033805,33644841,"Mori T, Kikuchi T, Yamazaki R, Koda Y, Saburi M, Sakurai M, et al. (2021). Phase",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,38472132,Impact of stapler versus manual closure techniques on pharyngocutaneous fistula ,RETRACTED,0.99,rw_db
+40679761,34094971,"Li J, Shi Z, Liu F, et al. XGBoost classifier based on computed tomography radio",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,35813431,Comparison of the Efficacy and Complications of Soft Ureteroscopy Lithotripsy an,RETRACTED,0.99,rw_db
+40033805,36119849,"Abdalhabib EK, Alzahrani B, Saboor M, Hamza A, Elfaki EM, Alanazi F, et al. (202",RETRACTED,0.88,deepseek
+40287616,32651902,"Aceto P, Antonelli Incalzi R, Bettelli G, Carron M, Chiumiento F, Corcione A, et",RETRACTED,0.88,deepseek
+40038641,33844851,"* Wang Y, Zhang Y, Qian Y, Xie Y-H, Jiang S-S, Kang Z-R, et al. Alterations in t",RETRACTED,0.88,deepseek
+40999836,,"K. B. Tan, S. T. Toh, C. Guilleminault, and J. E. Holty, “A Cost‐Effectiveness A",RETRACTED,1.00,user_manual
+40033805,30443842,"Allahbakhshian Farsani M, Kamel M, Mehrpouri M, Heris RS, Hamidpour M, Salari S,",RETRACTED,0.88,deepseek
+40038641,,R Core Team. 2024. https://www.r-project.org/. Accessed 22 Jan 2025.,RETRACTED,1.00,user_manual
+POSITIVE_CONTROL,24885566,Open reduction and closed reduction internal fixation in treatment of femoral ne,RETRACTED,0.99,rw_db
+POSITIVE_CONTROL,38472128,Effects of clinical nursing pathway on the surgical site wound infection in pati,RETRACTED,0.99,rw_db
+40932611,29514845,"Buchan SL, Fallatah M, Thirdborough SM, Taraban VY, Rogel A, Thomas LJ, et al. P",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,36217504,Meta-Analysis of the Application Effect of Different Modalities of Thermal Ablat,RETRACTED,0.99,rw_db
+41174505,31114131,"Necula L, Matei L, Dragu D, Neagu AI, Mambet C, Nedeianu S, et al. Recent advanc",CLEAN,0.85,deepseek
+41399105,,"Miedziaszczyk M, Ciabach P, Szałek E. The effects of bariatric surgery and gastr",RETRACTED,1.00,user_manual
+40290044,23745991,"Ryan J.L., Heckler C.E., Ling M., Katz A., Williams J.P., Pentland A.P., Morrow ",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,37539486,Perineal wound complications after vertical rectus abdominis myocutaneous flap a,RETRACTED,0.99,rw_db
+40747640,33215842,"Chase W, Zurmehly J, Amaya M, Browning KK. Implementation of a smoking cessation",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,30697972,Comparison of clinical outcomes between intravascular ultrasound-guided and angi,RETRACTED,0.99,rw_db
+40033805,30353031,"Wang TT, Yang J, Zhang Y, Zhang M, Dubois S, Conlon KC, et al. (2019). IL-2 and ",RETRACTED,0.88,deepseek
+41146130,,"Patil K, Patil A, Dande S. Comparison of surgical complications associated with ",CLEAN,1.00,user_manual
+40033805,31471324,"Whangbo JS, Kim HT, Mirkovic N, Leonard L, Poryanda S, Silverstein S, et al. (20",RETRACTED,0.88,deepseek
+40038641,33823861,"Ranjbar M, Salehi R, Haghjooy Javanmard S, Rafiee L, Faraji H, Jafarpor S, et al",RETRACTED,0.88,deepseek
+41286158,15650640,"Willett CG, et al. Long-term results of intraoperative electron beam irradiation",RETRACTED,0.88,deepseek
+41174505,35118083,"Tian H, Ning Z, Zong Z, Liu J, Hu C, Ying H, et al. Application of machine learn",RETRACTED,0.88,deepseek
+40597050,30477000,"Almutairi AR, Alkhatib NS, Oh M, Curiel-Lewandrowski C, Babiker HM, Cranmer LD, ",RETRACTED,0.88,deepseek
+41399105,,"Zarshenas N, Tapsell LC, Batterham M, Neale EP, Talbot ML. Investigating the pre",RETRACTED,1.00,user_manual
+40960690,36703586,"Alongi P, Rovera G, Stracuzzi F, Popescu CE, Minutoli F, Arnone G, et al. Artifi",RETRACTED,0.88,deepseek
+40597050,29912415,"Lattanzi M, Lee Y, Simpson D, Moran U, Darvishian F, Kim RH, et al. Primary mela",CLEAN,0.85,deepseek
+40960690,,"Kirienko M, Biroli M, Gelardi F, Seregni E, Chiti A, Sollini M. Deep learning in",RETRACTED,1.00,user_manual
+40960690,37432083,"Shi Z, Huang X, Cheng Z, Xu Z, Lin H, Liu C, et al. MRI-based quantification of ",RETRACTED,0.88,deepseek
+40960690,,"Umutlu L, Kirchner J, Bruckmann N-M, Morawitz J, Antoch G, Ting S, et al. Multip",CLEAN,1.00,user_manual
+40356837,30918022,"Fernandes CJ, Morinaga LTK, Alves JL, Jr, Castro MA, Calderaro D, Jardim CVP, et",CLEAN,0.85,deepseek
+POSITIVE_CONTROL,38272812,Wound infection prevention strategies in colorectal endoscopic mucosal resection,RETRACTED,0.99,rw_db
+41204891,34111966,"Bakry, A. M. , Abdelmohty H., Badawy A. E., Shorbagy M. S., and Eldib O. S.. 202",CLEAN,0.85,deepseek
+POSITIVE_CONTROL,37491831,Male infertility and urological tumors: Pathogenesis and therapeutical implicati,RETRACTED,0.99,rw_db
+40925717,,"Doger de Speville E, Kieffer V, Dufour C, Grill J, Noulhiane M, Hertz‐Pannier L,",CLEAN,1.00,user_manual
+40932611,25809635,"Patsoukis N, Bardhan K, Chatterjee P, Sari D, Liu B, Bell LN, et al. PD-1 alters",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,38044279,Predicted factors of surgical site infection in glioblastoma patients: A meta-an,RETRACTED,0.99,rw_db
+40136388,37948842,"Nuccio A., Viscardi G., Salomone F., Servetto A., Venanzi F.M., Riva S.T., Orest",CLEAN,1.00,user_manual
+40033805,32210945,"Maeda M, Tanabe-Shibuya J, Miyazato P, Masutani H, Yasunaga JI, Usami K, et al. ",RETRACTED,0.88,deepseek
+40747640,23440173,"Vidrine JI, Shete S, Cao Y, et al. Ask-Advise-Connect: a new approach to smoking",CLEAN,0.85,deepseek
+40999836,,"M. J. Pimentel, A. Bacchi, G. C. de Castro, and C. M. Rizzatti‐Barbosa, “Oral Ap",RETRACTED,1.00,user_manual
+41317088,26102294,"Huna A, Salmina K, Erenpreisa J, et al. Role of stress activated OCT4A in the ce",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,29619778,Daikenchuto for reducing postoperative ileus in patients undergoing elective abd,RETRACTED,0.99,rw_db
+40597050,,"The Center for the Evaluation of Value. and Risk in Health,Institute for Clinica",RETRACTED,1.00,user_manual
+40033805,15152368,"Mazur B, Mertas A, Sońta-Jakimczyk D, Szczepański T, Janik-Moszant A (2004). Con",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,35126914,Targeting AraC-Resistant Acute Myeloid Leukemia by Dual Inhibition of CDK9 and B,RETRACTED,0.99,rw_db
+40033805,30514753,"Warda W, Larosa F, Neto Da Rocha M, Trad R, Deconinck E, Fajloun Z, et al. (2019",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,38084020,A meta-analysis evaluating wound infections and other complications following di,RETRACTED,0.99,rw_db
+40038641,24199742,"Telles S, Singh N, Bhardwaj AK, Kumar A, Balkrishna A. Effect of yoga or physica",RETRACTED,0.88,deepseek
+40038641,38126945,"Kan HX, Cao Y, Ma Y, Zhang YL, Wang J, Li J, et al. Efficacy and safety of probi",RETRACTED,0.88,deepseek
+40035891,34464432,Brandão ML et al (2021) Association between spirituality and quality of life of ,RETRACTED,0.88,deepseek
+40145635,,"Higgins J. P., Thomas J., Chandler J., et al., Cochrane Handbook for Systematic ",CLEAN,1.00,user_manual
+40356837,36571839,"Gulati S, Eckman MH. Anticoagulant therapy for cancer-associated thrombosis: a c",RETRACTED,0.88,deepseek
+40815382,37462819,"Pu X, Wang X, Ran L et al (2023) Comparison of predictive performance for cage s",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,37165731,Wound complications frequency in heart transplant recipients on mammalian target,RETRACTED,0.99,rw_db
+39969368,,Luo YF. Observation of the effect of pelvic floor peritoneal closure combined wi,CLEAN,1.00,user_manual
+40038641,33272322,"Janati AI, Karp I, Laprise C, Sabri H, Emami E. Detection of Fusobaterium nuclea",RETRACTED,0.88,deepseek
+39969311,35398717,"Stares M, Ding TE, Stratton C, et al. Biomarkers of systemic inflammation predic",RETRACTED,0.88,deepseek
+40925717,,"Aarsen FK, van Veelen‐Vincent M‐LC, Partanen M, Catsman‐Berrevoets CE. Periopera",CLEAN,1.00,user_manual
+41174505,34249318,"Waddingham W, Nieuwenburg SAV, Carlson S, Rodriguez-Justo M, Spaander M, Kuipers",RETRACTED,0.88,deepseek
+40145635,22180393,"Bower J. E., Garet D., Sternlieb B., et al., “Yoga for Persistent Fatigue in Bre",CLEAN,0.85,deepseek
+41148318,38532503,"Perslev K, Klarskov N, Bergholt T, Jangö H. The REPAIR study: oral antibiotics t",RETRACTED,0.88,deepseek
+40892447,23045205,"da Costa  BR, Rutjes  AWS, Johnston  BC, Reichenbach  S, Nüesch  E, Tonia  T  et",RETRACTED,0.88,deepseek
+41085225,,"Sunguc C, Winter DL, Heymer EJ, et al. Risks of adverse obstetric outcomes among",CLEAN,1.00,user_manual
+39969368,34244951,"Shen Y, Yang T, Zeng H, Meng W, Wang Z. Efficacy of pelvic peritoneum closure af",RETRACTED,0.88,deepseek
+41399105,,"Villarreal-Calderón JR, Castillo EC, Cuellar-Tamez RX, García-Garza M, Elizondo-",CLEAN,1.00,user_manual
+40038641,33506574,"Suzuki S, Goto A, Nakatochi M, Narita A, Yamaji T, Sawada N, et al. Body mass in",RETRACTED,0.88,deepseek
+40923939,,"Cinque ME, Dornan GJ, Chahla J, et al. High rates of osteoarthritis develop afte",CLEAN,1.00,user_manual
+41399105,,AMSTAR 2: a critical appraisal tool for systematic reviews that include randomis,CLEAN,1.00,user_manual
+40747640,36727247,"Barker TH, Stone JC, Sears K, et al. The revised JBI critical appraisal tool for",CLEAN,0.85,deepseek
+40923939,,"Hohmann E, Tetsworth K, Glatt V. Anterior cruciate ligament reconstruction resul",RETRACTED,1.00,user_manual
+POSITIVE_CONTROL,36213560,Efficacy and Safety of Radical Resection of Rectal  Cancer  Combined with Select,RETRACTED,0.99,rw_db
+40356837,31984870,"Wang Y, Wang M, Ni Y, Liang Z. Direct oral anticoagulants for thromboprophylaxis",RETRACTED,0.88,deepseek
+41089680,,"Bogucka-Fedorczuk A, Wróbel T. Bispecific antibodies in the treatment of follicu",RETRACTED,1.00,user_manual
+40033805,19036083,"Riccioni R, Diverio D, Riti V, Buffolino S, Mariani G, Boe A, et al. (2009). Int",RETRACTED,0.88,deepseek
+40287616,18582931,"Weiser TG, Regenbogen SE, Thompson KD, Haynes AB, Lipsitz SR, Berry WR, et al. A",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,38158715,Comparative analysis of surgical and non-surgical wound approaches in diabetic f,RETRACTED,0.99,rw_db
+39951207,,"Khushboo N, Jhala S, Wei RR, Lopez-Ben GP (2012) Siegal bizarre parosteal Osteoc",RETRACTED,1.00,user_manual
+40033805,30154115,"Alsadeq A, Lenk L, Vadakumchery A, Cousins A, Vokuhl C, Khadour A, et al. (2018)",RETRACTED,0.88,deepseek
+40136388,35093800,"Friedlaender A., Naidoo J., Banna G.L., Metro G., Forde P., Addeo A. Role and im",RETRACTED,0.88,deepseek
+41188771,36614001,"Rosochowicz MA, Lipowicz JM, Karwacka MI, Ostapowicz J, Cisek M, Mackiewicz AA, ",RETRACTED,0.88,deepseek
+39951207,20719415,"Shakib K, Kalsi H, Tsiridis E, Kumar M (2011) Rare case of bizarre parosteal ost",RETRACTED,0.88,deepseek
+41146130,32927799,"Sikora M, Chęciński M, Sielski M, Chlubek D. The use of 3D titanium miniplates i",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,24633362,ALDH2 and ADH1 genetic polymorphisms may contribute to the risk of gastric cance,RETRACTED,0.99,rw_db
+40038641,25432777,"* Zeller G, Tap J, Voigt AY, Sunagawa S, Kultima JR, Costea PI, et al. Potential",RETRACTED,0.88,deepseek
+41146130,,"Kim JH, Kim SM, Kwon GJ, Park YW. Clinical review of various surgical approaches",RETRACTED,1.00,user_manual
+40033805,,"Busfield SJ, Biondo M, Wong M, Ramshaw HS, Lee EM, Martin K, et al. (2012). CSL3",RETRACTED,1.00,user_manual
+41399105,,"Bi X, Zhao P, Liu T, et al. Impact of sleeve gastrectomy on the periodontal stat",CLEAN,1.00,user_manual
+40932611,39745266,Schuler M. Facts and hopes in neoadjuvant immunotherapy combinations in resectab,RETRACTED,0.88,deepseek
+40679761,37985692,"Cao K, Xia Y, Yao J, et al. Large-scale pancreatic cancer detection via non-cont",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,36181614,Proton beam therapy for skull base chordomas: a systematic review of tumor contr,RETRACTED,0.99,rw_db
+40999836,,"S. Serra‐Torres, C. Bellot‐Arcís, J. M. Montiel‐Company, J. Marco‐Algarra, and J",RETRACTED,1.00,user_manual
+39969311,26712084,"Herbst RS, Baas P, Kim DW, et al. Pembrolizumab versus docetaxel for previously ",CLEAN,0.85,deepseek
+POSITIVE_CONTROL,32856392,Negative pressure wound therapy for patients with mediastinitis: A meta-analysis,RETRACTED,0.99,rw_db
+40290044,24274259,"Hutchins-Wiese H.L., Picho K., Watkins B.A., Li Y., Tannenbaum S., Claffey K., K",RETRACTED,0.88,deepseek
+41146130,2921657,Boyne PJ. Free grafting of traumatically displaced or resected mandibular condyl,CLEAN,0.85,deepseek
+40960690,32214265,Savage N. How AI is improving cancer diagnostics. Nature. 2020;579:S14–6. https:,RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,38155392,Efficacy and safety of oral probiotic supplementation in mitigating postoperativ,RETRACTED,0.99,rw_db
+POSITIVE_CONTROL,27532124,Prognostic Role of Secretory Clusterin in Multiple Human Malignant Neoplasms: A ,RETRACTED,0.99,rw_db
+POSITIVE_CONTROL,23780894,Association between XRCC1 Arg399Gln polymorphism and hepatitis virus-related hep,RETRACTED,0.99,rw_db
+41286158,27276001,"Tsai S, Evans DB. Therapeutic advances in localized pancreatic cancer. JAMA Surg",CLEAN,0.85,deepseek
+41399105,,"Belligoli A, Sanna M, Serra R, et al. Incidence and predictors of hypoglycemia 1",CLEAN,1.00,user_manual
+40960690,25883123,"Groheux D, Sanna A, Majdoub M, de Cremoux P, Giacchetti S, Teixeira L, et al. Ba",RETRACTED,0.88,deepseek
+40145635,34751943,"Mao J. J., Pillai G. G., Andrade C. J., et al., “Integrative Oncology: Addressin",RETRACTED,0.88,deepseek
+40892447,35696286,"Junarta  J, Siddiqui  MU, Riley  JM, Dikdan  SJ, Patel  A, Frisch  DR. Low-volta",RETRACTED,0.88,deepseek
+41204891,37128953,"Igwe, E. O. , Nealon J., O'Shaughnessy P., et al. 2023. “Incidence of Post‐Opera",RETRACTED,0.88,deepseek
+40940796,,"Zhang Q., Ding K., Lv T., Wang X., Yin Q., Zhang Y., Yu J., Wang Y., Li X., Xian",RETRACTED,1.00,user_manual
+POSITIVE_CONTROL,38472107,Impact of prophylactic wound closure in colorectal ESD on postoperative wound co,RETRACTED,0.99,rw_db
+40597050,36174452,"Blazek K, Furestad E, Ryan D, Damian D, Fernandez-Penas P, Tong S. The impact of",RETRACTED,0.88,deepseek
+41399105,,"Flegal KM, Kruszon-Moran D, Carroll MD, et al. Trends in obesity among adults in",CLEAN,1.00,user_manual
+41286158,18173375,"Keir ME, et al. PD-1 and its ligands in tolerance and immunity. Annu Rev Immunol",CLEAN,0.85,deepseek
+40145635,34396915,"Belloni S., Arrigoni C., and Caruso R., “Effects From Physical Exercise on Reduc",RETRACTED,0.88,deepseek
+41204891,22976420,"Marik, P. E. , and Flemmer M.. 2012. “The Immune Response to Surgery and Trauma:",CLEAN,0.85,deepseek
+41085225,,"Shliakhtsitsava K, Romero SAD, Dewald SR, Su HI. Pregnancy and child health outc",CLEAN,1.00,user_manual
+41286158,25538019,"Herman JM, et al. Phase 2 multi-institutional trial evaluating gemcitabine and s",RETRACTED,0.88,deepseek
+40747640,38915102,"Ashcraft LE, Goodrich DE, Hero J, et al. A systematic review of experimentally t",RETRACTED,0.88,deepseek
+40145635,12958120,"Higgins J. P., Thompson S. G., Deeks J. J., and Altman D. G., “Measuring Inconsi",CLEAN,0.85,deepseek
+40035891,,"Peteet JR, Balboni MJ (2013) Spirituality and religion in oncology. CA: A Cancer",CLEAN,1.00,user_manual
+40815382,38166951,"Liu Y, Li NH (2024) Factors associated with intervertebral cage subsidence in po",RETRACTED,0.88,deepseek
+39969311,37703603,"Im K, Choi YJ, Kim DH, et al. AXL receptor tyrosine kinase inhibition improves t",RETRACTED,0.88,deepseek
+40145635,,"National Cancer Institute
+, accessed March 3, 2024, https://www.cancer.gov/about",RETRACTED,1.00,user_manual
+40940796,34103684,"Walter W., Haferlach C., Nadarajah N., Schmidts I., Kühn C., Kern W., Haferlach ",RETRACTED,0.88,deepseek
+40033805,12152987,"Skinnider BF, Kapp U, Mak TW (2002). The role of interleukin 13 in classical Hod",CLEAN,0.85,deepseek
+40940796,,"Dudoit S., Fridlyand J., Speed T.P. Comparison of discrimination methods for the",RETRACTED,1.00,user_manual
+41089680,31648294,"Hirayama AV, Gauthier J, Hay KA, Voutsinas JM, Wu Q, Pender BS, et al. High rate",RETRACTED,0.88,deepseek
+41201392,,"Han, XD, Lu, RQ, Hu, HY, Guo, L. Application of serum markers in medullary thyro",CLEAN,1.00,user_manual
+POSITIVE_CONTROL,38577937,Effect of probiotics and synbiotics on complications of wound infection after co,RETRACTED,0.99,rw_db
+40033805,23625073,"Tal N, Shochat C, Geron I, Bercovich D, Izraeli S (2014). Interleukin 7 and thym",CLEAN,0.85,deepseek
+40940796,35057748,"Han H., Liu X. The challenges of explainable AI in biomedical data science. BMC ",RETRACTED,0.88,deepseek
+40145635,38281450,"Wang Y., Yang L., Lin G., et al., “The Efficacy of Progressive Muscle Relaxation",RETRACTED,0.88,deepseek
+41188771,,"Cho SB, Kim IK, Kang HS, Lee SH, Yeo CD. S100A8/A9-RAGE pathway and chronic airw",RETRACTED,1.00,user_manual
+40925717,,"Skye J, Bruss J, Toescu S, Aquilina K, Grafft A, Bardi Lola G, et al. Neuroanato",CLEAN,1.00,user_manual
+41174505,,"Miao R, Li ZY, Ji JF. Analysis of the current status and development trend of di",RETRACTED,1.00,user_manual
+40597050,29909871,"Wilson ECF, Usher-Smith JA, Emery J, Corrie PG, Walter FM. Expert elicitation of",RETRACTED,0.88,deepseek
+41204891,12034649,"Shamsuzzaman, A. S. , Winnicki M., Lanfranchi P., et al. 2002. “Elevated C‐React",RETRACTED,0.88,deepseek
+40923939,,"Higgins JPT, Thomas J, Chandler J, et al. Cochrane Handbook for Systematic Revie",RETRACTED,1.00,user_manual
+40035891,,"Hsieh Y-P, Roh S, Lee Y-S (2020) Spiritual well-being, social support, and depre",RETRACTED,1.00,user_manual
+40679761,32279101,"Ren S, Zhao R, Zhang J, et al: Diagnostic accuracy of unenhanced CT texture anal",RETRACTED,0.88,deepseek
+41085225,,"Lie Fong S, van den Heuvel‐Eibrink MM, Eijkemans MJC, Schipper I, Hukkelhoven CW",CLEAN,1.00,user_manual
+41174505,36059703,"Li Y, Xie F, Xiong Q, Lei H, Feng P. Machine learning for lymph node metastasis ",RETRACTED,0.88,deepseek
+41317088,29562589,"Pawlowska E, Szczepanska J, Szatkowska M, et al. An interplay between senescence",RETRACTED,0.88,deepseek
+40597050,27757333,"Chen JT, Kempton SJ, Rao VK. The economics of skin cancer: an analysis of medica",RETRACTED,0.88,deepseek
+40356837,32810773,"Lopes DG, Tamayo A, Schipp B, Siepmann T. Cost-effectiveness of edoxaban vs low-",RETRACTED,0.88,deepseek
+40035891,,"Whitford HS, Olver IN, Peterson MJ (2008) Spirituality as a core domain in the a",CLEAN,1.00,user_manual
+41286158,26909576,"Bailey P, et al. Genomic analyses identify molecular subtypes of pancreatic canc",RETRACTED,0.88,deepseek
+40033805,,"Tobler A, Moser B, Dewald B, Geiser T, Studer H, Baggiolini M, Fey MF (1993). Co",CLEAN,1.00,user_manual
+POSITIVE_CONTROL,38152991,Effect of comprehensive nursing intervention on wound pain and wound complicatio,RETRACTED,0.99,rw_db
+41085225,,"Kenney LB, Nicholson HS, Brasseux C, et al. Birth defects in offspring of adult ",CLEAN,1.00,user_manual
+POSITIVE_CONTROL,25141776,Systematic evaluation of percutaneous radiofrequency ablation versus percutaneou,RETRACTED,0.99,rw_db
+40597050,32007142,"Canfell K, Kim JJ, Brisson M, Keane A, Simms KT, Caruana M, et al. Mortality imp",RETRACTED,0.88,deepseek
+40033805,26058076,"Passaro D, Irigoyen M, Catherinet C, Gachet S, Da Costa De Jesus C, Lasgi C, et ",RETRACTED,0.88,deepseek
+39969311,35070755,"Shi Y, Liu J, Zhang D, Liu X, Yue Y, et al. Correlations between peripheral bloo",RETRACTED,0.88,deepseek
+40287616,32549990,"Tefera GM, Feyisa BB, Umeta GT, Kebede TM. Predictors of prolonged length of hos",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,23271362,Polymorphisms of excision repair gene XPD Lys751Gln and hOGG1 Ser326Cys might no,RETRACTED,0.99,rw_db
+39969311,7350839,"Buzby GP, Mullen JL, Matthews DC, Hobbs CL, Rosato EF. Prognostic nutritional in",RETRACTED,0.88,deepseek
+40035891,28175997,Brown AJ et al (2017) Nothing left to chance? The impact of locus of control on ,RETRACTED,0.88,deepseek
+40679761,35727458,"Anai K, Hayashida Y, Ueda I, et al. The effect of CT texture-based analysis usin",RETRACTED,0.88,deepseek
+40136388,32386568,"Shu C.A., Gainor J.F., Awad M.M., Chiuzan C., Grigg C.M., Pabani A., Garofano R.",RETRACTED,0.88,deepseek
+POSITIVE_CONTROL,31692232,A meta-analysis of treatment effects of imiquimod for basal cell carcinoma.. J C,RETRACTED,0.99,rw_db
+40815382,40055220,"Egu C, Najjar E, Komaitis S et al (2025) Evaluating the prognostic role of compu",RETRACTED,0.88,deepseek
+40679761,31841792,"Latenstein AEJ, van der Geest LGM, Bonsing BA, et al: Nationwide trends in incid",RETRACTED,0.88,deepseek
+41399105,,"Adamina M, Steffen T, Tarantino I, et al. Meta-analysis of the predictive value ",CLEAN,1.00,user_manual
+POSITIVE_CONTROL,38973678,Pregnancy outcomes of foetal reduction from twin to singleton gestation compared,RETRACTED,0.99,rw_db
+40892447,32898129,"Wang  Z, Cheng  L, Zhang  J, Liang  Z, Dong  R, Hang  F  et al.  Serum-soluble S",RETRACTED,0.88,deepseek
+40960690,25868410,"Killelea BK, Yang VQ, Mougalian S, Horowitz NR, Pusztai L, Chagpar AB, et al. Ne",RETRACTED,0.88,deepseek
+40038641,32056863,"Sanada K, Nakajima S, Kurokawa S, Barceló-Soler A, Ikuse D, Hirata A, et al. Gut",RETRACTED,0.88,deepseek
+40033805,19349467,"González-García S, García-Peydró M, Martín-Gayo E, Ballestar E, Esteller M, Born",RETRACTED,0.88,deepseek
+41201392,,"Giovanella, L, Fontana, M, Keller, F, Campenni, A, Ceriani, L, Paone, G. Circula",CLEAN,1.00,user_manual
+POSITIVE_CONTROL,38351465,Analgesic efficacy of local infiltration anaesthesia versus femoral nerve block ,RETRACTED,0.99,rw_db
+40287616,8881629,"Wolters U, Wolf T, Stützer H, Schröder T. ASA classification and perioperative v",RETRACTED,0.88,deepseek
+41188771,29642903,"Leu JS, Chang SY, Mu CY, Chen ML, Yan BS. Functional domains of SP110 that modul",RETRACTED,0.88,deepseek
